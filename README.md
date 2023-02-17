@@ -7,10 +7,6 @@ Este é um aplicativo simples que converte um valor fixo de Real Brasileiro (BRL
 ## Requisitos
 Para utilizar o aplicativo, é necessário possuir um dispositivo com sistema operacional Android e a versão mínima do Android 4.4 (KitKat).
 
-## Instalação
-Faça o download do arquivo APK do aplicativo no GitHub.
-Transfira o arquivo APK para o dispositivo Android.
-Abra o arquivo APK no dispositivo Android e siga as instruções para instalar o aplicativo.
 ## Utilização
 Abra o aplicativo.
 Insira o valor em Real Brasileiro (BRL) que deseja converter nos campos correspondentes.
